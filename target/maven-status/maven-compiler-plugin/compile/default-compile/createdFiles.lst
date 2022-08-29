@@ -60,6 +60,7 @@ com\Ylulrek\reggie\mapper\OrderMapper.class
 com\Ylulrek\reggie\service\impl\DishFlavorServiceImpl.class
 com\Ylulrek\reggie\mapper\UserMapper.class
 com\Ylulrek\reggie\service\impl\CategoryServiceImpl.class
+com\Ylulrek\reggie\config\RedisConfig.class
 com\Ylulrek\reggie\mapper\AddressBookMapper.class
 com\Ylulrek\reggie\service\impl\OrderServiceImpl.class
 com\Ylulrek\reggie\controller\UserController.class
